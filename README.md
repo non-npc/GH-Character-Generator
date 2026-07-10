@@ -1,6 +1,8 @@
 # GandalfHardcore Character Generator
 **Please note that this does not come with assets, you must place them in the asset folder.**
-The expected assets list are listed in **"assets_list.txt"**
+
+READ **"assets_list.txt"** for the list of assets/folders.
+
 ![GH CG Screenshot](screenshot01.png)
 
 GandalfHardcore Character Generator is a Python desktop app (PyQt6) that composes **paperdoll** characters from existing sprite sheets and exports:
