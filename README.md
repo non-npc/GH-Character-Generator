@@ -1,4 +1,5 @@
 # GandalfHardcore Character Generator
+![GH CG Screenshot](screenshot01.png)
 
 GandalfHardcore Character Generator is a Python desktop app (PyQt6) that composes **paperdoll** characters from existing sprite sheets and exports:
 - **PNG sprite sheets** (7×10 grid, 80×64 cells)
