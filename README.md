@@ -1,4 +1,7 @@
 # GandalfHardcore Character Generator
+This is a character generator for the **GandalfHardcore 2D pixel art male and female characters** asset pack.
+https://gandalfhardcore.itch.io/2d-pixel-art-male-and-female-character
+
 **Please note that this does not come with assets, you must place them in the asset folder.**
 
 READ **"assets_list.txt"** for the list of assets/folders.
