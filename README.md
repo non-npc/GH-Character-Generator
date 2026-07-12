@@ -6,6 +6,8 @@ https://gandalfhardcore.itch.io/2d-pixel-art-male-and-female-character
 
 READ **"assets_list.txt"** for the list of assets/folders.
 
+**Windows 10/11 EXE here:** https://github.com/non-npc/GH-Character-Generator/releases/tag/v1.0
+
 ![GH CG Screenshot](screenshot01.png)
 
 GandalfHardcore Character Generator is a Python desktop app (PyQt6) that composes **paperdoll** characters from existing sprite sheets and exports:
